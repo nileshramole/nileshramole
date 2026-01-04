@@ -1,42 +1,60 @@
-## Hi 👋 My name is Nilesh Ramole  
-### Data Analyst Enthusiast 📊
-
-🚀 **Passionate Data Explorer | Python & SQL Learner | Turning Raw Data into Actionable Insights**  
-
-🌍 I'm based in **India**  
-✉️ You can contact me at **nlshramole@gmail.comm**  
-📊 I'm currently working on **Data Analysis & Power BI Dashboard Projects**  
-🧠 I'm learning **Python, SQL, Power BI, Excel, Statistics**  
-🤝 I'm open to collaborating on **Data Analytics & Visualization Projects**  
-⚡ *“Finding patterns in data and converting insights into decisions!”*  
+# Hi, there! 👋  
+## It's Nilesh Ramole!
 
 ---
 
-## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🚀 About Me  
+I am ✨ **a Data Analyst Enthusiast** ✨ with a strong passion for transforming raw data into meaningful insights. I enjoy working with data to identify trends, patterns, and actionable insights that help businesses make informed decisions.
+
+I have hands-on experience in **data cleaning, data analysis, visualization, and reporting**, using tools like **Python, SQL, Excel, and Power BI**. I am continuously improving my skills through real-world projects and learning programs.
+
+My goal is to grow as a **Data Analyst** and contribute to data-driven decision-making by delivering clear, accurate, and impactful insights. Let’s explore the power of data together!
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+## 🔭 My Interests  
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)  
+- 📈 Business Intelligence & Dashboarding  
+- 🧹 Data Cleaning & Data Preparation  
+- 📉 Statistics & Data Interpretation  
+- 🤖 Beginner-level Machine Learning  
 
 ---
 
-## 📈 My GitHub Stats
+## 🛠 Skills  
 
+### 🔹 Programming & Query Languages  
+- Python  
+- SQL  
+
+### 🔹 Data Visualization & BI Tools  
+- Excel (Pivot Tables, VLOOKUP, Dashboards)  
+- Power BI  
+- Tableau
+
+### 🔹 Libraries & Analytics Tools  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+
+### 🔹 Databases & Other Tools  
+- MySQL 
+- Git & GitHub 
+---
+
+## 📂 Projects  
+- 📊 Sales Data Analysis using Python  
+- 📈 Power BI Dashboard for Business Insights  
+- 🧹 Data Cleaning & EDA on Real-World Datasets  
+*(More projects coming soon 🚀)*
 
 ---
 
-## 🔥 GitHub Streak
-
-
----
-
-## 💻 Top Languages
-
+## 📫 How to Reach Me  
+- 📧 Email: nlshramole@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/nileshramole
+- 💻 GitHub: https://github.com/yourusername
 
 ---
+
+⭐ If you like my work, feel free to star my repositories!
