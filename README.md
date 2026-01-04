@@ -53,7 +53,7 @@ My goal is to grow as a **Data Analyst** and contribute to data-driven decision-
 ## 📫 How to Reach Me  
 - 📧 Email: nlshramole@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/nileshramole
-- 💻 GitHub: https://github.com/yourusername
+- 💻 GitHub: https://github.com/nileshramole
 
 ---
 
